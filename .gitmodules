@@ -7,3 +7,6 @@
 	path = xmarts/xmarts_financial_factor
 	url = git@github.com:xmarts/xmarts_financial_factor.git
 	branch = 15.0-mp
+[submodule "ieps_calculation"]
+	path = ieps_calculation
+	url = git@github.com:xmarts/ieps_calculation.git
